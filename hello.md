@@ -5,3 +5,5 @@ Oh
 Change with black magic
 
 Changes from commit 1
+
+Test the change from root dir

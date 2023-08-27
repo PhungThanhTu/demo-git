@@ -23,5 +23,5 @@ done
 chang3 
 
 change from feature 1
-
-feature 1: demo PR
+change from develop
+manually resolve conflict

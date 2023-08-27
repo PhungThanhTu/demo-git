@@ -25,3 +25,5 @@ chang3
 change from feature 1
 change from develop
 manually resolve conflict
+
+new commit from feature 1
